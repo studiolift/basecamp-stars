@@ -8,7 +8,7 @@ Open the Userscript and you will be prompted to install the extension.
 
 ## Usage
 
-If a todo's text contains an asterisk (*) it will remove the marker and place an orange star. My preference is to prefix the todo text, e.g. "* My super important task"
+If a todo's text contains an asterisk (\*) it will remove the marker and place an orange star. My preference is to prefix the todo text, e.g. "\* My super important task"
 
 It also has legacy support for [Enhance!](https://github.com/studiolift/Enhance-for-Basecamp) HOT/WARM syntax (HOT will appear slightly darker).
 
